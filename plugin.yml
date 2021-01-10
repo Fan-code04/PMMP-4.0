@@ -1,0 +1,6 @@
+name: Plugin4.0-PMMP
+author: Fan
+version: 1.0
+api: [4.0.0]
+main: plugin\Main
+info: ne faites pas gaffe a ce plugin en + il changera constament c'est pour deja commencé a m'ahbitué a la 4.0 de pocketmine
